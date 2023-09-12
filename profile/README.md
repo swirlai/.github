@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Swirl Search](https://raw.githubusercontent.com/wiki/swirlai/swirl-search/images/swirl-logo-only-blue.png)](https://github.com/swirlai/swirl-search)
+[![Swirl Search](https://raw.githubusercontent.com/wiki/swirlai/swirl-search/images/readme-header.png)]([https://www.swirl.today](https://github.com/swirlai/swirl-search))
 
 # Swirl 
 
