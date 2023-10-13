@@ -1,8 +1,8 @@
 <div align="center">
 
-[![Swirl Search](https://raw.githubusercontent.com/wiki/swirlai/swirl-search/images/readme-header.png)]([https://www.swirl.today](https://github.com/swirlai/swirl-search))
+[![Swirl](https://docs.swirl.today/images/readme-header.png)](https://swirl.today/)
 
-# Swirl 
+# Swirl
 
 ### _One Search Box To Find It All_
 
@@ -17,7 +17,7 @@ The company behind [Swirl](https://github.com/swirlai/swirl-search)
 
 
 
-[𝗛𝗼𝗺𝗲𝗽𝗮𝗴𝗲](https://swirl.today/) ✦ [𝗗𝗼𝗰𝘂𝗺𝗲𝗻𝘁𝗮𝘁𝗶𝗼𝗻](https://github.com/swirlai/swirl-search/wiki) ✦ 
-[𝗦𝘄𝗶𝗿𝗹](https://github.com/swirlai/swirl-search) ✦ [𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆 𝗦𝗹𝗮𝗰𝗸](https://join.slack.com/t/swirlmetasearch/shared_invite/zt-22ozfml3o-oqe7sWvB5jw6xEwv1duW4g)✦ [𝗬𝗼𝘂𝗧𝘂𝗯𝗲](https://www.youtube.com/@swirlmetasearch)
+[𝗛𝗼𝗺𝗲𝗽𝗮𝗴𝗲](https://swirl.today/) ✦ [𝗗𝗼𝗰𝘂𝗺𝗲𝗻𝘁𝗮𝘁𝗶𝗼𝗻](https://docs.swirl.today/) ✦ 
+[𝗦𝘄𝗶𝗿𝗹](https://github.com/swirlai/swirl-search) ✦ [𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆 𝗦𝗹𝗮𝗰𝗸](https://join.slack.com/t/swirlmetasearch/shared_invite/zt-22ozfml3o-oqe7sWvB5jw6xEwv1duW4g) ✦ [𝗬𝗼𝘂𝗧𝘂𝗯𝗲](https://www.youtube.com/@swirlmetasearch)
 
 </div>
