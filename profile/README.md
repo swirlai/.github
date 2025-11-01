@@ -17,6 +17,6 @@ The company behind [SWIRL AI Connect](https://github.com/swirlai/swirl-search)
 
 
 
-[Website](https://swirlaiconnect.com/) ✦ [Documentation](https://docs.swirlaiconnect.com/) ✦ [SWIRL](https://github.com/swirlai/swirl-search) ✦ [Community Slack](https://join.slack.com/t/swirlmetasearch/shared_invite/zt-2sfwvhwwg-mMn9tcKhAbqXbrV~9~Y1eA) ✦ [YouTube](https://www.youtube.com/@swirlmetasearch)
+[Website](https://swirlaiconnect.com/) ✦ [Documentation](https://docs.swirlaiconnect.com/) ✦ [SWIRL](https://github.com/swirlai/swirl-search) ✦ [YouTube](https://www.youtube.com/@swirlmetasearch)
 
 </div>
